@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=CHAEWON%20AN&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=CHAEWON%20AN&fontSize=45&fontColor=ffffff" />
 </p>
 
 ## ⚙️ Tech Stack
