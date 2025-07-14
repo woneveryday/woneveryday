@@ -1,8 +1,5 @@
 <!-- 헤더 배너 -->
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CHAEWON%20AN&fontSize=85&animation=scaleIn]" />
-</p>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CHAEWON%20AN&fontSize=90&animation=scaleIn)
 ## ⚙️ Tech Stack
 
 <p align="center">
