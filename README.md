@@ -20,7 +20,4 @@
 
 ---
 
-<!-- 👣 Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=26D0CE&height=120&section=footer"/>
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
